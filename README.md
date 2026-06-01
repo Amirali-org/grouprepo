@@ -1,3 +1,3 @@
 # grouprepo
 
-VERSION A: Borrow system updated by User A
+VERSION B: Borrow system updated differently
